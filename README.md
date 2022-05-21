@@ -44,4 +44,9 @@ respectively. <br />
 The number of trees used in the forest are 5.
 
 ![image](https://user-images.githubusercontent.com/77600063/169656781-072037ba-ada8-40b6-8173-820dd0bd0a82.png)
+<br />
+SVM V/S Random-Forest
+
+![image](https://user-images.githubusercontent.com/77600063/169656841-852e683f-a9ef-433a-9947-b7a5b498d6a0.png)
+
 
