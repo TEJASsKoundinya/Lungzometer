@@ -1,4 +1,6 @@
 # Lungzometer
+![image](https://user-images.githubusercontent.com/77600063/169656770-43a2dee8-04ae-46cc-935a-c0bde2d5635f.png)
+
 Obtain the audio and through its properties of .wav we predict the patients condition as normal or abnormal lung
 data set was obtained from https://www.kaggle.com/vbookshelf/respiratory-sound-database
 
@@ -40,3 +42,6 @@ Step 3: Each decision tree will generate an output.<br />
 Step 4: Final output is considered based on Majority Voting or Averaging for Classification and regression 
 respectively. <br />
 The number of trees used in the forest are 5.
+
+![image](https://user-images.githubusercontent.com/77600063/169656781-072037ba-ada8-40b6-8173-820dd0bd0a82.png)
+
