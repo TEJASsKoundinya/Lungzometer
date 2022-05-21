@@ -32,10 +32,11 @@ Random forest is a Supervised Machine Learning Algorithm that is used widely in 
 problems. It builds decision trees on different samples and takes their majority vote for classification and average in 
 case of regression. One of the most important features of the Random Forest Algorithm is that it can handle the data 
 set
-Steps involved in random forest algorithm:
-Step 1: In Random Forest n number of random records are taken from the data set having k number of records.
-Step 2: Individual decision trees are constructed for each sample.
-Step 3: Each decision tree will generate an output.
+<br />
+Steps involved in random forest algorithm:<br />
+Step 1: In Random Forest n number of random records are taken from the data set having k number of records.<br />
+Step 2: Individual decision trees are constructed for each sample.<br />
+Step 3: Each decision tree will generate an output.<br />
 Step 4: Final output is considered based on Majority Voting or Averaging for Classification and regression 
-respectively. 
+respectively. <br />
 The number of trees used in the forest are 5.
