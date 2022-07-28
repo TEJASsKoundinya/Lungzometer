@@ -49,4 +49,7 @@ The number of trees used in the forest are 5.
 
 ![image](https://user-images.githubusercontent.com/77600063/169656841-852e683f-a9ef-433a-9947-b7a5b498d6a0.png)
 
+## Hardware to record sound
+![image](https://user-images.githubusercontent.com/77600063/181419956-6841082a-3d8d-4a45-90fd-e0969f8c0027.png)
+![image](https://user-images.githubusercontent.com/77600063/181419923-bff6bded-0ba0-455a-9148-fad9d276ddaf.png)
 
